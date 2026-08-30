@@ -1,5 +1,21 @@
 # Practical 01 --- Your MLOps Workbench
 
+---
+
+## Student Submission Details
+- **Student ID:** S24CSEU0767
+- **Name / GitHub:** Harsh Shukla / AlgorithmicMynd
+- **Repository:** https://github.com/AlgorithmicMynd/mlops_practice01
+
+### AI Assistance Disclosure
+AI assistance (Antigravity IDE / Gemini) was used during this practical for:
+- Configuring git remote origin and resolving syntax issues.
+- Verifying git commit tracking and staged changes.
+- Explaining lab instructions and submission requirements.
+All submitted code, answers, and notebook outputs were reviewed and verified independently.
+
+
+
 *A clean environment, a pinned library list, and a run that repeats itself*
 
 SCSE3040 Machine Learning Operations · Bennett University · Session 2026-27
