@@ -90,6 +90,10 @@ minutes were we off by? It is in minutes, so anyone can understand it.
 | Task T3 --- a working single-order predictor | 3 |
 | **Total** | **10** |
 
+## Notes on Analysis & AI Assistance
+
+- **Assisted Interpretation:** Gemini AI was utilized as an editorial aid to draft clear, concise, professional, and unambiguous technical commentary for model evaluation and inference analysis without overstating or understating empirical results.
+
 ## Read more
 
 - scikit-learn --- train_test_split --- <https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html>
@@ -100,3 +104,4 @@ minutes were we off by? It is in minutes, so anyone can understand it.
 
 *Open `P02.ipynb` in Jupyter and work through it top to bottom.
 The notebook contains everything in this handout, plus the code.*
+
